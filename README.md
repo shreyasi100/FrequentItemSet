@@ -1,2 +1,2 @@
 # FrequentItemSet
-A spark implementation of the SON algorithm to find out frequent itemsets
+A spark implementation of the SON algorithm to find out frequent itemsets on the yelp dataset
